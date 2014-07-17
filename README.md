@@ -1,6 +1,6 @@
 irtrans-sndbin
 ==============
-IRTrans Binary Code Sending
+IRTrans Binary Code Receiving/Sending
 
 Usage:<br />
 ./irtrans-sndbin rx<br />
